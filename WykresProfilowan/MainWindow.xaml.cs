@@ -22,6 +22,7 @@ namespace WykresProfilowan
     {
         public MainWindow()
         {
+
             InitializeComponent();
         }
     }
